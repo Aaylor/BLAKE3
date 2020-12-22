@@ -1,6 +1,6 @@
 # <a href="#"><img src="media/BLAKE3.svg" alt="BLAKE3" height=50></a>
 
-foo2
+foo3
 
 BLAKE3 is a cryptographic hash function that is:
 
